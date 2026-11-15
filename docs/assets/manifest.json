@@ -1,0 +1,38 @@
+{
+ "sprites": {
+  "trees": [
+   "sprites/tree_00.png",
+   "sprites/tree_01.png",
+   "sprites/tree_02.png",
+   "sprites/tree_03.png",
+   "sprites/tree_04.png"
+  ],
+  "canopy": [
+   "sprites/canopy_00.png",
+   "sprites/canopy_01.png"
+  ],
+  "bushes": [
+   "sprites/bush_00.png",
+   "sprites/bush_01.png",
+   "sprites/bush_02.png",
+   "sprites/bush_03.png",
+   "sprites/bush_04.png",
+   "sprites/bush_05.png"
+  ],
+  "plants": [
+   "sprites/plant_00.png",
+   "sprites/plant_01.png",
+   "sprites/plant_02.png",
+   "sprites/plant_03.png",
+   "sprites/plant_04.png",
+   "sprites/plant_05.png",
+   "sprites/plant_06.png",
+   "sprites/plant_07.png"
+  ],
+  "crowns": [
+   "sprites/crown_00.png",
+   "sprites/crown_01.png"
+  ]
+ },
+ "wayFlameY": 0.63
+}
